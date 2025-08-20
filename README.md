@@ -1,5 +1,5 @@
-﻿# My Project
-
+﻿# Kaggle Competitions (username: Cedric_225)
+ 
 The following projects show my skills in the areas of:
 
 1. housing_prices_comp(ingestion_eda_modeling.ipynb)/(https://www.kaggle.com/competitions/home-data-for-ml-course/overview):
@@ -8,6 +8,7 @@ The following projects show my skills in the areas of:
   - Imputing with a median for continuous fields and a mode for categorical fields
   - Feature selection using a random forrest regressor and .01 field importance threshold
   - Using and interpreting a linear model
+
 
 
 
