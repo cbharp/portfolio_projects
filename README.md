@@ -1,6 +1,6 @@
 ﻿# Kaggle Competitions (username: Cedric_225)
  
-1. #### Competition: https://www.kaggle.com/competitions/home-data-for-ml-course/overview (DanB. Housing Prices Competition for Kaggle Learn Users. https://kaggle.com/competitions/home-data-for-ml-course, 2018. Kaggle.)
+1. #### Competition: DanB. Housing Prices Competition for Kaggle Learn Users. https://kaggle.com/competitions/home-data-for-ml-course, 2018. Kaggle.
    #### Folder: housing_prices_comp
    #### File: ingestion_eda_modeling.ipynb
    #### Skills practiced:
@@ -9,6 +9,7 @@
   - Imputing with a median for continuous fields and a mode for categorical fields
   - Feature selection using a random forrest regressor and .01 field importance threshold
   - Using and interpreting a linear model
+
 
 
 
